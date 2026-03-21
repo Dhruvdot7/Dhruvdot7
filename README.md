@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Dhruv Gupta</h1>
 
-<!--
-**Dhruvdot7/Dhruvdot7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=666666&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+Deep+Learning+%7C+Agentic+AI" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruvdot7&style=flat&color=grey" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+* B.Tech CSE (AI & ML), Galgotias University (2027)
+* Focused on AI systems and real-world applications
+* Currently working on **Sheeshaa (AI Project)**
+* Exploring LLMs, deep learning, and agentic AI
+
+---
+
+## Work
+
+**Sheeshaa (AI System)**
+
+* AI-driven system for real-world problem solving
+* Focused on building intelligent, context-aware solutions using LLMs
+* Built using modern machine learning and LLM concepts
+* In active development
+* An AI based system which reflects personal growth.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdot7&bg_color=ffffff&color=000000&line=888888&point=000000&hide_border=true" />
+</p>
+
+---
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,pytorch,git,github,vscode" />
+</p>
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&show_icons=true&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Contact
+
+* Email: [dhruvguptag7@gmail.com](mailto:dhruvguptag7@gmail.com)
+* LinkedIn: www.linkedin.com/in/dhruv-gupta-436702282
+
+---
+
+<p align="center">
+  <i>Consistency over intensity.</i>
+</p>
