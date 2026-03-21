@@ -1,33 +1,37 @@
+<p align="center">
+  <img src="assets/banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Dhruv Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+Deep+Learning+%7C+Agentic+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Real-World+AI+Systems;LLMs+%7C+Deep+Learning+%7C+Agentic+AI" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruvdot7&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Dhruvdot7&style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
 * 🎓 B.Tech CSE (AI & ML), Galgotias University (2027)
-* 🤖 Focused on building real-world AI systems
+* 🤖 Building **real-world AI systems**
 * 🚀 Currently working on **Sheeshaa (AI Project)**
-* 🔬 Exploring LLMs, deep learning, and agentic AI
+* 🔬 Exploring **LLMs, Deep Learning, Agentic AI**
 
 ---
 
-## 🚀 Work
+## 🧠 Sheeshaa (Core Project)
 
-### **Sheeshaa (AI System)**
+**Sheeshaa — AI System in Progress**
 
 * ⚡ AI-driven system for real-world problem solving
-* 🧩 Builds context-aware intelligence using LLMs
-* 🛠️ Developed with modern machine learning practices
-* 🚧 Currently in active development
-* 🪞 Reflects my transition from learning AI to building impactful systems
+* 🧩 Context-aware intelligence using LLMs
+* 🛠️ Built with modern machine learning practices
+* 🚧 Currently in development
+* 🪞 Reflects my journey from learning AI to building impactful systems
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdot7&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" />
@@ -35,7 +39,7 @@
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,pytorch,git,github,vscode" />
@@ -43,7 +47,7 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -52,7 +56,7 @@
 
 ---
 
-## 🐍 Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/output/github-contribution-grid-snake.svg" />
@@ -60,7 +64,7 @@
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-gupta-436702282">
@@ -75,49 +79,4 @@
 
 <p align="center">
   <b>Train hard. Build smarter. Stay consistent.</b>
-</p>
-* Focused on building intelligent, context-aware solutions using LLMs
-* Built using modern machine learning and LLM concepts
-* In active development
-* An AI based system which reflects personal growth.
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdot7&bg_color=ffffff&color=000000&line=888888&point=000000&hide_border=true" />
-</p>
-
----
-
-## Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,pytorch,git,github,vscode" />
-</p>
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&show_icons=true&hide_border=true" height="160"/>
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## Contact
-
-* Email: [dhruvguptag7@gmail.com](mailto:dhruvguptag7@gmail.com)
-* LinkedIn: www.linkedin.com/in/dhruv-gupta-436702282
-
----
-
-<p align="center">
-  <i>Consistency over intensity.</i>
 </p>
