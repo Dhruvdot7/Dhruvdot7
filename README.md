@@ -14,16 +14,17 @@
 
 ---
 
-<p align="left">
+<h2 align="left">
+  🧠 About Me 
+  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="50" style="vertical-align: middle; margin-left: 10px;" />
+</h2>
 
-   ##🧠 About Me <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120"/>
-
-  
-  * 🎓 B.Tech CSE (AI & ML), Galgotias University (2027)
-  * 🤖 Building real-world AI systems
-  * 🚀 Currently working on **Sheeshaa (AI Project)**
-  * 🔬 Exploring LLMs, Deep Learning & Agentic AI
-</p>
+<ul>
+  <li>🎓 B.Tech CSE (AI & ML), Galgotias University (2027)</li>
+  <li>🤖 Building real-world AI systems</li>
+  <li>🚀 Currently working on <b>Sheeshaa (AI Project)</b></li>
+  <li>🔬 Exploring LLMs, Deep Learning & Agentic AI</li>
+</ul>
 ---
 
 ## 🧠 Sheeshaa (Core Project)
