@@ -1,8 +1,8 @@
 ## 🧠 About Me
 
-🎓 AI & ML Undergraduate @ Galgotias University (2027)  
-🤖 Building **real-world AI systems**  
-🚀 Currently developing **Sheeshaa (AI Project)**  
+🎓 AI & ML Undergraduate @ Galgotias University (2027)
+🤖 Building **real-world AI systems**
+🚀 Currently developing **Sheeshaa (AI Project)**
 🔬 Focused on **LLMs • Deep Learning • Agentic AI**
 
 ---
@@ -31,36 +31,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Project
+
+### 🚀 Sheeshaa (AI System)
+
+* AI-driven system for solving real-world problems
+* Context-aware intelligence using LLMs
+* Built with modern ML practices
+* Represents my transition from learning → building
+
+---
+
+## 📊 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Dhruvdot7&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdot7&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdot7&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📂 Featured Repositories
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvdot7&theme=tokyonight&no-frame=true&margin-w=8&row=1"/>
+  <a href="https://github.com/Dhruvdot7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvdot7&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Dhruvdot7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvdot7&repo=REPO_NAME2&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
+
 ---
 
-## 📈 Contributions
+## 📌 Current Focus
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dhruvdot7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dhruvdot7&icon=5&color=6"/>
-</p>
+* ⚡ Agentic AI & LLM Engineering
+* 🧠 Deep Learning & Model Building
+* 💻 DSA & Problem Solving
+* 🚀 Building scalable AI systems
 
 ---
 
