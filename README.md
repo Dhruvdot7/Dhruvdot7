@@ -33,7 +33,10 @@
 
 ## 🧠 Core Project
 
-### 🚀 Sheeshaa (AI System)
+<h3 align="left">
+  🚀 Sheeshaa (AI System)
+  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120" style="vertical-align: middle; margin-left: 10px;" />
+</h3>
 
 * AI-driven system for solving real-world problems
 * Context-aware intelligence using LLMs
