@@ -48,18 +48,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdot7&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
-
-## 📂 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Dhruvdot7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvdot7&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Dhruvdot7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvdot7&repo=REPO_NAME2&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
 
 ---
 
