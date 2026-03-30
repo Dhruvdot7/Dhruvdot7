@@ -15,8 +15,9 @@
 ---
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120"/>
-  ## 🧠 About Me
+
+   ##🧠 About Me <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120"/>
+
   
   * 🎓 B.Tech CSE (AI & ML), Galgotias University (2027)
   * 🤖 Building real-world AI systems
