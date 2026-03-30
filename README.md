@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruvdot7&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdot7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Dhruvdot7&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdot7&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdot7&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400"/>
 </p>
 
 ---
@@ -47,9 +47,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvdot7&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvdot7&theme=tokyonight&no-frame=true&margin-w=8&row=1"/>
 </p>
-
 ---
 
 ## 📈 Contributions
@@ -57,7 +56,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Dhruvdot7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
-
 ---
 
 <p align="center">
