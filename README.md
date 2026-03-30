@@ -16,7 +16,7 @@
 
 <h2 align="left">
   🧠 About Me 
-  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120" style="vertical-align: middle; margin-left: 120px;" />
+  <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120" style="vertical-align: middle; margin-left: 10px;" />
 </h2>
 
 <ul>
