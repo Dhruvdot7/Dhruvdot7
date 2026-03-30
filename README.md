@@ -16,12 +16,12 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Dhruvdot7/Dhruvdot7/main/assets/amongus.gif" width="120"/>
-## 🧠 About Me
-
-* 🎓 B.Tech CSE (AI & ML), Galgotias University (2027)
-* 🤖 Building real-world AI systems
-* 🚀 Currently working on **Sheeshaa (AI Project)**
-* 🔬 Exploring LLMs, Deep Learning & Agentic AI
+  ## 🧠 About Me
+  
+  * 🎓 B.Tech CSE (AI & ML), Galgotias University (2027)
+  * 🤖 Building real-world AI systems
+  * 🚀 Currently working on **Sheeshaa (AI Project)**
+  * 🔬 Exploring LLMs, Deep Learning & Agentic AI
 </p>
 ---
 
